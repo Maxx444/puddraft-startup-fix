@@ -4,3 +4,6 @@ PUDDraft-fixed.exe
 backup/
 *.log
 src/*.exe
+
+# the patcher is published on the Releases page only
+*.exe

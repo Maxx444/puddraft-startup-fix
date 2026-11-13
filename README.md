@@ -11,7 +11,7 @@ This repo does **not** contain PUDDraft. You need your own copy of `PUDDraft.exe
 
 ## How to use
 
-1. Download `PUDDraft-StartupFix.exe` from the [Releases](../../releases) page (or from this repo).
+1. Download `PUDDraft-StartupFix.exe` from the [Releases](../../releases/latest) page.
 2. Put it in the same folder as `PUDDraft.exe`.
 3. Run it and click **Patch PUDDraft**.
 
