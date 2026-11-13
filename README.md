@@ -9,9 +9,13 @@ the map view tries to redraw itself and reads the map size from a map that doesn
 
 This repo does **not** contain PUDDraft. You need your own copy of `PUDDraft.exe` v0.96.
 
+### [⬇ Download the latest PUDDraft-StartupFix.exe](https://github.com/Maxx444/puddraft-startup-fix/releases/latest/download/PUDDraft-StartupFix.exe)
+
+This link always gets the newest version. Older versions are on the [Releases](../../releases) page.
+
 ## How to use
 
-1. Download `PUDDraft-StartupFix.exe` from the [Releases](../../releases/latest) page.
+1. [Download `PUDDraft-StartupFix.exe`](https://github.com/Maxx444/puddraft-startup-fix/releases/latest/download/PUDDraft-StartupFix.exe) (latest release).
 2. Put it in the same folder as `PUDDraft.exe`.
 3. Run it and click **Patch PUDDraft**.
 
