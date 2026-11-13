@@ -1,0 +1,6 @@
+# never commit PUDDraft itself or local test files
+PUDDraft.exe
+PUDDraft-fixed.exe
+backup/
+*.log
+src/*.exe
